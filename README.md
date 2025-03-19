@@ -38,4 +38,4 @@ Achieved **~80% test accuracy** on the **CIFAR-10 dataset**.
 - **Locally**: Ensure `torch`, `torchvision`, and `matplotlib` are installed, then execute the script.  
 
 ## Author
-Created by [Your Name]. Connect with me on **LinkedIn**! 🚀
+Created by Paras Singh. Connect with me on **LinkedIn**! 🚀
